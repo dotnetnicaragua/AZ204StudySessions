@@ -1,5 +1,6 @@
 # AZ-204 Study Sessions
 Es un repositorio academico con el fin de hacer las practicas para los temas de cada capitulo del libro **Exam Ref AZ-204**.
+<br/>
 El repositorio esta estructurado por capitulo y tema (en el libro le llaman Skill), a continuación se aprecia la estructura de directorios:
 
 ```bash
