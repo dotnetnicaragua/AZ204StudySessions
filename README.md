@@ -12,8 +12,12 @@ C:\REPOS\AZ204STUDYSESSIONS
 │   │   └───ScriptCh11
 │   └───Topic12
 ├───Ch2
+│   └───Topic21
 ├───Ch3
+│   └───Topic31
 ├───Ch4
+│   └───Topic41
 └───Ch5
+    └───Topic51
 ```
 Nota: *algunas carpetas aún no existen pero, sería apropiado conservar la misma estructura y dejar esto como referencia de estudio a otros colegas*.
