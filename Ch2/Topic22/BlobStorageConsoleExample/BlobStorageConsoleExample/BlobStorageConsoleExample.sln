@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageConsoleExample", "BlobStorageConsoleExample\BlobStorageConsoleExample.csproj", "{96934381-EBA7-49C1-9C20-538ED1BDADD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveItemsExampleConsole", "MoveItemsExampleConsole\MoveItemsExampleConsole.csproj", "{2B1DA6B6-0DF7-47F8-8563-C2FCEA7F85A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96934381-EBA7-49C1-9C20-538ED1BDADD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96934381-EBA7-49C1-9C20-538ED1BDADD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96934381-EBA7-49C1-9C20-538ED1BDADD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96934381-EBA7-49C1-9C20-538ED1BDADD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1DA6B6-0DF7-47F8-8563-C2FCEA7F85A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1DA6B6-0DF7-47F8-8563-C2FCEA7F85A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1DA6B6-0DF7-47F8-8563-C2FCEA7F85A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1DA6B6-0DF7-47F8-8563-C2FCEA7F85A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5D7415-CAC8-4213-A97E-210344ABFC48}
+	EndGlobalSection
+EndGlobal
